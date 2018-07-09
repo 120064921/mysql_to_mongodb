@@ -1,0 +1,26 @@
+{
+  "name": "mysql_to_mongodb",
+  "version": "1.0.0",
+  "description": "Using node.js to use Mysql to migrate data to mongodb ",
+  "homepage": "",
+  "scripts": {
+    "dev": "node main.js",
+    "start": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/120064921/mysql_to_mongodb"
+  },
+  "author": {
+    "name": "liguoliang",
+    "email": "120064921@qq.com"
+  },
+  "license": "",
+  "devDependencies": {
+    "gulp": "",
+    "gulp-less": ""
+  },
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
