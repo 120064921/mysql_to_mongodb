@@ -18,9 +18,11 @@
   "license": "",
   "devDependencies": {
     "gulp": "",
-    "gulp-less": ""
+    "gulp-less": "",
+    "mongodb": "^3.1.1"
   },
   "dependencies": {
+    "express": "^4.16.3",
     "mysql": "^2.15.0"
   }
 }
