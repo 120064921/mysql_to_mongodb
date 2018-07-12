@@ -4,12 +4,12 @@ exports.myConf = {
 	user : 'root',              
 	password : 'root',       
 	port : '3306',                   
-	database : 'taikendev', 
+	database : 'test', 
 	multipleStatements : true 
 };
 
 exports.moConf = {
 	dbUrl : 'mongodb://localhost:27017',
-	db : 'taiken',
-	collection : 'token_event'
+	db : 'test',
+	collection : 'users'
 };
